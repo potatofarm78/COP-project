@@ -1,0 +1,16 @@
+# Maven build output
+**/target/
+
+# IDE-specific files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Compiled Java classes
+*.class
+
+# Local environment configuration
+.env
+.env.*
